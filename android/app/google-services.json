@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103794976500",
+    "project_id": "football-drill-app",
+    "storage_bucket": "football-drill-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103794976500:android:9a2db1f9401c4cb4a120a1",
+        "android_client_info": {
+          "package_name": "com.example.football_drills_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDSlLz9nGqhJGuxoN7NBzTDuxC63JZBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
