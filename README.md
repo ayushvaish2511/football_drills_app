@@ -56,7 +56,7 @@ Football Drills App is a mobile application that helps users track their footbal
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/football_drills_app.git
+git clone https://github.com/ayushvaish2511/football_drills_app.git
 ```
 
 2. Install dependencies:
